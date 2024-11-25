@@ -1,5 +1,13 @@
 # dapr-debugging
 
+## Install Dependencies
+
+```
+pip install -r requirements.txt
+```
+
+## Run Dapr Enabled Stuff
+
 ```
 dapr init
 
